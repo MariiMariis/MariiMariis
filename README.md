@@ -3,4 +3,6 @@ MariiMariis/MariiMariis is a ✨ special ✨ repository because its `README.md` 
 You can click the Preview link to take a look at your changes.
 --->
 
-![Snake animation](https://github.com/MariiMariis/MariiMariis/blob/output/github-contribution-grid-snake.svg)
+![GitHub Snake Light](github-snake.svg#gh-light-mode-only)
+![GitHub Snake dark](github-snake-dark.svg#gh-dark-mode-only)
+
