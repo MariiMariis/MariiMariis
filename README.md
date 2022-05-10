@@ -5,14 +5,14 @@ You can click the Preview link to take a look at your changes.
 
 ## Hello, my name is Mariana! <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30px">
 
-I am Mariana, and I am currently:
-
-* A Software Engineering Student
-* A Sistems Engineer at Cisco Systems
-* A Professor at FIAP 
-
  [![Linkedin Badge](https://img.shields.io/badge/-MarianaMotta-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mariana-motta-96b21096/)](https://www.linkedin.com/in/mariana-motta-96b21096/)
  [![Gmail Badge](https://img.shields.io/badge/-mariana.motta94@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:mariana.motta94@gmail.com "Connect via Email")
+ 
+ I am Mariana, and I am currently:
+
+* :woman_student: A Software Engineering Student
+* :woman_technologist: :office: A Sistems Engineer at Cisco Systems
+* :books: A Professor at FIAP 
 
 ## ⚡ Technologies
 
