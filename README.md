@@ -3,7 +3,7 @@ MariiMariis/MariiMariis is a ✨ special ✨ repository because its `README.md` 
 You can click the Preview link to take a look at your changes.
 --->
 
-## Hello, my name is Mariana! <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30px">
+## Hello, my name is Mariana! <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="10px">
 
  [![Linkedin Badge](https://img.shields.io/badge/-MarianaMotta-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mariana-motta-96b21096/)](https://www.linkedin.com/in/mariana-motta-96b21096/)
  [![Gmail Badge](https://img.shields.io/badge/-mariana.motta94@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:mariana.motta94@gmail.com "Connect via Email")
