@@ -11,8 +11,7 @@ You can click the Preview link to take a look at your changes.
  I am Mariana, and I am currently:
 
 * :woman_student: A Software Engineering Student
-* :woman_technologist: :office: A Sistems Engineer at Cisco Systems
-* :books: A Professor at FIAP 
+* :woman_technologist: :office: A Pre Sales Engineer at GPS IT
 
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
