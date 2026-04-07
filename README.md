@@ -3,7 +3,7 @@
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=MariiMariis&color=blueviolet&style=flat-square" alt="MariiMariis" />
   <br>
-  <a href="https://www.linkedin.com/in/mariana-motta-96b21096/">
+  <a href="https://www.linkedin.com/in/mariana-motta-loredo-96b21096/">
     <img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white" alt="Linkedin Badge">
   </a>
   <a href="mailto:mariana.motta94@gmail.com">
