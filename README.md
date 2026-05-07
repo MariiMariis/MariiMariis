@@ -17,16 +17,6 @@
 
 Sou estudante de **Engenharia de Software** e atualmente atuo como **Pre Sales Engineer** na GPS IT.  
 Sempre aprendendo algo novo e explorando o mundo da tecnologia!
-
----
-
-### 📊 Minhas Estatísticas
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MariiMariis&show_icons=true&theme=nightowl&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MariiMariis&layout=compact&theme=nightowl"/>
-</div>
-
 ---
 
 ### ⚡ Tecnologias & Ferramentas
